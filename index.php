@@ -5,6 +5,7 @@
 <body ng-app="mymodule">
 
 <h1>Main page</h1>
+  <p>Change by version branch 1</p>
 <a href="about.php"><button  value="click to go next page"  /></a>
 </body>
 </html>
